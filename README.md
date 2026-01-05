@@ -14,6 +14,9 @@ In simple terms, I enabled control over the values of fields inherited by the ch
 
 ---
 
+### Explore
+You can explore my solution with VSCode or any other suitable IDE. 
+
 ### Build
 
 ```bash
