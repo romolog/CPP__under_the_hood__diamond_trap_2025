@@ -1,8 +1,8 @@
 # Diamond trap
 
-I explored multiple inheritance and solved Diamond trap to controll inheritance from both parent classes without changing parent classes: 
+I explored multiple inheritance and solved the Diamond Problem to control inheritance from both parent classes without modifying them.
 
-To put it simple, I make possible to control values of the fields which child-class inhereted from parent classes. The solution is to add proxy
+In simple terms, I enabled control over the values of fields inherited by the child class. The solution uses a proxy class, that inherits from only one parent. The proxy is nested within the child class. The child class can then override field values using the values stored in the proxy.
 
 ---
 
