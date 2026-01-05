@@ -18,7 +18,7 @@ In simple terms, I enabled control over the values of fields inherited by the ch
 
 ```bash
 git clone https://github.com/romolog/CPP__under_the_hood__diamond_trap_2025.git diamond_trap;
-cd diamond_trap;
+cd diamond_trap/diamond_trap;
 make;
 ```
 
